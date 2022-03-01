@@ -1,0 +1,387 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The young-man's duty: or, Good council for young-men. Shewing the happiness of being good betimes. [W]ith an alarm from the eternal God, to drowsie saints and secure sinners. As also the young-mans objections an[s]wered, and the old-mans doubts resolved. / By Roger Hough.</title>
+            <author>Hough, Roger</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03691</idno>
+            <idno type="STC">Wing H2915A</idno>
+            <idno type="STC">ESTC R178262</idno>
+            <idno type="EEBO-CITATION">47012478</idno>
+            <idno type="OCLC">ocm 47012478</idno>
+            <idno type="VID">174444</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03691)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174444)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2689:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The young-man's duty: or, Good council for young-men. Shewing the happiness of being good betimes. [W]ith an alarm from the eternal God, to drowsie saints and secure sinners. As also the young-mans objections an[s]wered, and the old-mans doubts resolved. / By Roger Hough.</title>
+                  <author>Hough, Roger</author>
+               </titleStmt>
+               <extent>[2], 1-6, 9, 8-21 p.   </extent>
+               <publicationStmt>
+                  <publisher>[Pri]nted by W.L. and T.J. for Phillip Brooksby ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tight binding with some loss of text.</note>
+                  <note>Irregular pagination.</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Judgment of God --  Early works to 1800.</term>
+               <term>Good and evil --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174444:1"/>
+            <p>THE Young-man's Duty: OR Good Council for Young-Men.</p>
+            <p>Shewing the Happineſs of being good betimes.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith an Alarm from the Eternal God, to Drowſie Saints and ſecure Sinners.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> alſo the Young-Mans Objections an<g ref="char:EOLhyphen"/>ſwered, and the Old-mans doubts reſol<g ref="char:EOLhyphen"/>ved.</p>
+            <p>By <hi>Roger Hough.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>King 18.12.</hi>
+               </bibl>
+               <p>But I thy Servant fear the Lord from my youth.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>overbs 16.31.</hi>
+               </bibl>
+               <p>The Hoary Head is a crown of Glory, if it be found in the way of righte<g ref="char:EOLhyphen"/>ouſneſs.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nted by <hi>W. L.</hi> and <hi>T. J.</hi> for <hi>Phillip Brooksby,</hi> next door to the Ball, in <hi>Weſt-ſmith<g ref="char:EOLhyphen"/>field,</hi> near the <hi>Hoſ-pital-Gate,</hi> 1677.</p>
+            <pb facs="tcp:174444:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:174444:2"/>
+            <head>
+               <hi>THE</hi> Young Man's Duty.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Eccleſ.</hi> 11 <hi>Chap.</hi> 9 <hi>Verſe.</hi>
+                  </bibl>
+                  <p>Rejoyce, O Young-man in thy Youth, and let thy heart chear thee in the days of thy youth, and walk in the ways of thy heart and in the ſight of thine eyes; but know thou, that for all theſe things God will bring thee to Judgement.</p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>SOlomon</hi> in the Concluſion of this Chapter is Exhorting the Sons of Men to true Religion; and the better to, and in order to the ſame, he mindeth them of Death and Iudgement, without which there cannot be planted in us a right Care and Fear of God. From the Seventh Verſe to the latter end, he hath to do with Two Sorts of Men.</p>
+            <p>
+               <hi>Firſt,</hi> With thoſe that were glued to this life, and to the delights and pleaſures there<g ref="char:EOLhyphen"/>of;
+<pb n="2" facs="tcp:174444:3"/>of: And thus he brings them in, ſpeaking thus, <hi>Truly the light is ſweet, and it is a pleaſant thing to behold the Sun, verſe 7.</hi> By light there we are to underſtand the light of the Sun, ſhining on us, while we enjoy this Mortal Life: This many men ſuppoſe to be a very pleaſant thing; and they over<g ref="char:EOLhyphen"/>much content themſelves in the ſame. Theſe <hi>Solomon verſe 8.</hi> refuteth by three Ar<g ref="char:EOLhyphen"/>guments.</p>
+            <p>The Firſt is this, that though a Man live many years, yet let him remember the days of darkneſs. That is, That a time of death will come; a time when our Sun will ſet and our light will turn to darkneſs, though we live never ſo long, never ſo ſweetly, never ſo pleaſantly, though we enjoy the light of the Sun, yet we ſhould carefully remember that darkneſs abideth in us,</p>
+            <p>Secondly, ſaith <hi>Solomon,</hi> Theſe days are.</p>
+            <p>His Argument is thus much, Let a man conſider with himſelf, though he live many years, yet notwithſtanding the days and years of his life, cannot be compared with the days and years of his death.</p>
+            <p>Now in the Word we have read, we have to deal with Young-men; and he is altoge<g ref="char:EOLhyphen"/>ther given to jollity, and Merriment: He
+<pb n="3" facs="tcp:174444:3"/>forgeteth God, and the days of darkneſs, and his later end. <hi>Rejoyce, O Young man in thy Youth, and let thy Heart cheer thee in the day of thy youth, and walk in the ways of thine heart and in the ſight of thine eyes: but know this (there is a cooling Card) that for all theſe things God will bring thee to judgement.</hi>
+            </p>
+            <p>In the Word we will conſider two parts.</p>
+            <p>
+               <hi>Firſt.</hi> What Young-men do.</p>
+            <p>
+               <hi>Secondly,</hi> The Medicine of God, to heal young-men of their default: that young-men do, is this, They give themſelves over to an inordinate Carnal joy: This joy is ſet out from the time of it; the days of thy youth: from the cauſe of it, their hearts cheer them; from the kinds of it, they walk in the ways of their hearts, and in the ſight of their eyes.</p>
+            <p>Thirdly, The Medicine with which <hi>So<g ref="char:EOLhyphen"/>lomon</hi> would heal young-men of this inordi<g ref="char:EOLhyphen"/>nate carnal joy, is this: <hi>Know</hi> (ſaith he) <hi>that for all theſe things God will bring thee to judgement:</hi> that is, It is a moſt Divine and infallible truth, that every one ſhould know and acknowledge, that whatſoever ſins they commit in their Youth, without repentance they muſt undergo the dreadful judgement of God, beeauſe of them.</p>
+            <div n="1" type="doctrine">
+               <pb n="4" facs="tcp:174444:4"/>
+               <head>
+                  <hi>Doct.</hi> That it is a Sin of Young-men, to Re<g ref="char:EOLhyphen"/>joyce inordinately, and carnally, in the days of their youth, to walk after their hearts, and in the ſight of their eys.</head>
+               <p>We Read concerning the Old World, that were Eating and Drinking and Marry<g ref="char:EOLhyphen"/>ing and giving in Marriage altogether ſottiſh and ſenſual, till the Wrath of God came in the Flood, and ſwept them away, <hi>Iſa. 22.14. Let us eat and drink for too mor<g ref="char:EOLhyphen"/>row we ſhall die.</hi> It is thought, this was not ſo much the Language of Age, as of the Youth in <hi>Iſrael</hi> Hence <hi>Solomon</hi> giveth a Caveat to Young-men, <hi>Eccleſ. 12.1.</hi> To Bridle, and reſtrain from this jollity, and carnal Mirth: <hi>Remember now the Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou ſhalt ſay, I have no pleaſure in them.</hi> And the Apoſtle St. <hi>Paul, 1 Tim. 2.22.</hi> Inſtructeth <hi>Timothy</hi> to ſlye youthful luſts, <hi>Tit. 2.6. Exhort young-men that they be ſo<g ref="char:EOLhyphen"/>ber minded.</hi> Let us a little conſider the rea<g ref="char:EOLhyphen"/>ſons of the Doctrine, whence it is that Young-men ſhould be ſo much miſguided in their youth.</p>
+               <p>The firſt cauſe is, Natural Corruption that they have drawn by Propagation from
+<pb n="5" facs="tcp:174444:4"/>their Parents; a Spiritual Leproſie, and Malady; and a Diſeaſe, which as it prevail<g ref="char:EOLhyphen"/>eth for the moſt part upon age by covetouſ<g ref="char:EOLhyphen"/>neſs, ſo it geteth ground of youth, by ſenſu<g ref="char:EOLhyphen"/>allity and voluptuouſneſs: this dams up the ear againſt reproof; this hardens the heart againſt inſtruction, and makes many young men the Souldiers of Satan in ſin.</p>
+               <p>Again, in the ſecond place, Men in their youth forget the day of their Reckoning and Iudgement, they are not mindful of their later end, <hi>Deut. 32.22. Oh that they were wiſe, that they underſtood this, that they would conſider their latter end:</hi> this precept is neglected both by youth and age, but eſpecially by thoſe of younger years, for they think it is time enough to repent, and turn to God, when they are old; and ſo they put off God from time to time, till at laſt juſtice cuts them down, and throws them into everlaſting burning, where there is weeping, and wailing, and gnaſhing of teeth.</p>
+               <p>Again, in the third place, Young-men are not broken down by afflictions, the Fallow ground is not Plowed up by afflictions; which through the grace of God, are great means to fame Nature, and to ſubdue Pride, and to bring the Soul to a right frame and
+<pb n="6" facs="tcp:174444:5"/>temper. <hi>Before I was afflicted</hi> (ſaith <hi>David</hi>) <hi>I went aſtray.</hi> And <hi>Ephraim,</hi> ſaith. <hi>J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r 31. I was as a Bullock unaccuſtomed to the yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k. hou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> chaſtiſed me and I was chaſtiſedſt, I w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s aſh med<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> becauſe bore the reproach of my youth.</hi> But young-men are free from aches, and pains and ſickneſs, and ſorrow, much more then old age, and this is the reaſon why they are more Licentious.</p>
+               <p>Laſtly, Young-men want true Ioy in God, therefore they betake themſelves to Carnal joy, for ſure it is, a man cannot live without joy and contentment, if he hath it not from the Wells of Salvation. Now becauſe men in their Youth cannot take in the Spiritual Ioy of that clear Fountain, therefore they drink in the muddy waters of carnal joy.</p>
+               <p>The uſe of this point, is<g ref="char:punc">▪</g> in the firſt place an admonition to all Young-men to take no<g ref="char:EOLhyphen"/>tice of thoſe Maladies, and ſpiritual Diſeaſes in themſelves.</p>
+               <p>The firſt degree of our healing is, to ſee that we are ſick: and till then Chriſt Ieſus the Phyſician of our ſoul, hath no Com<g ref="char:EOLhyphen"/>miſſion to do us good. Let Young-men ob<g ref="char:EOLhyphen"/>ſerve in themſelves, Firſt, Their Carnal joy. <hi>Solomon</hi> here ſheweth that they rejoyce inordinately. This may appear to them<g ref="char:EOLhyphen"/>ſelves.</p>
+               <pb n="9" facs="tcp:174444:5"/>
+               <p>Firſt, Becauſe they rejoyce not where they ought; they ſolace not themſelves in God, in whom is the Fountain of all true joy, nor in Chriſt Ieſus, in whom is the Spring of Ioy, nor in the Word, where there is the Ciſtern of Ioy; even as a bone when it is out of joynt, it muſt needs be a diſ<g ref="char:EOLhyphen"/>ordered bone. So the Affeictions when they are miſplaced, are diſordered and then our joy and any other affections are miſplaced, when they are not ſet upon God and Chriſt. Now if Young-men would deal uprightly with themſelves, they ſhould perceive that for the moſt part, in their jollity and merri<g ref="char:EOLhyphen"/>ment they never think of God, or dream of the World to come. Nay the ſerious ap<g ref="char:EOLhyphen"/>prehenſion of God Almighty, would quench their joy.</p>
+               <p>Secondly, The Carnalneſs of the joy of young-men, appeareth becauſe they rejoyce where they ought not, in Riot, in Drunken<g ref="char:EOLhyphen"/>neſs, in Whoreing in all manner of Volup<g ref="char:EOLhyphen"/>tuouſneſs, many time in Obſcenity of Word and Phraiſe, in making jeſt of the Holy Word of God: ſo we may ſay of this merri<g ref="char:EOLhyphen"/>ment, it is a mad merriment; he is a mad man that rejoyceth in that, for which, except <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e betake himſelf to ſerious and bitter mourning he cannot be ſaved.</p>
+               <pb n="6" facs="tcp:174444:6"/>
+               <pb n="9" facs="tcp:174444:6"/>
+               <pb n="6" facs="tcp:174444:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:174444:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:174444:8"/>
+               <p>Thirdly, The Carnalneſs of the joy of Young-men may appear in this: Becauſe they terminate and conclude not their joy in God: this followeth on the former: for it is impoſſible that what beginneth not in God, ſhould end in God: When joy be<g ref="char:EOLhyphen"/>gineth in ſin, it cannot end in God, but in the Devil.</p>
+               <p>Secondly, Let young-men take notice of themſelves, how they walk after their own hearts: the heart that ſays, come, put away penſive thoughts, trouble not your ſelf about the day of reckoning and judge<g ref="char:EOLhyphen"/>ment: Come let us enjoy the preſent time, now let us ſing and be merry, for we have time enough to repent. Thus they are re<g ref="char:EOLhyphen"/>ſolved to take their ſill of pleaſure, like the fool in the Goſpel, which ſaith, <hi>Soul, take thine eaſe, for thou haſt goods laid up for many years.</hi> Thus they judge: and thus they walk after their carnal hearts.</p>
+               <p>Again in the third place, young-men walk after the ſight of their eyes: that is, they ſtand gazing at things temporal, and neglect things e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nal, they ſee a beauty and luſtre in thoſe outward things, and perceive no glory and brightneſs in Chriſt Ieſus.</p>
+               <p>Beloved, If we follow our own hearts, and our own eyes, it will be thus with us
+<pb n="9" facs="tcp:174444:8"/>as you have heard: but we ſhould rather la<g ref="char:EOLhyphen"/>bour with <hi>J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b,</hi> to make a covenant with our <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yes. Oh! how few Young-men are there that make a bargain and agreement with their eyes that they ſhall not be as an open Caſement to let ſin into the ſoul? Oh! how <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ew young men are there, that like <hi>Jeremiah,</hi> have their eyes as fountains of water, to weep day and night for the afflictions of the people of God? Oh! how few young-men are there, that like <hi>Moſes,</hi> have an eye to the re<g ref="char:EOLhyphen"/>compence of reward, that they may ſuffer af<g ref="char:EOLhyphen"/>flictions with the people of God, rather than to enjoy the pleaſures of ſin for a ſeaſon. Now I beſeech you take a Survey of your ſelves in theſe things: theſe are vices and ſins, and deformities of young-men, to be ſeen, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amented by all thoſe that hope to dwell in Gods holy hill.</p>
+               <p>
+                  <hi>Uſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> It is for exhortation to young-men. They ſhould labour to be reformed in their af<g ref="char:EOLhyphen"/>fections, and hearts, away with this carnal <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oy we ought to caſt it out of us.</p>
+               <p n="1">
+                  <hi>1.</hi> Carnal joy: would you know what the event of it will be; it will end in carnal ſor<g ref="char:EOLhyphen"/>row, and without repentance in hell it ſelf. <hi>Woe unto you</hi> (ſaith our Savour Chriſt) <hi>that laugh now, you ſhall weep and mourn: the triumphing of the wicked</hi> (ſaith <hi>Zophar</hi>
+                  <pb n="10" facs="tcp:174444:9"/>in <hi>Job) is ſhort, and the joy of the Hypocrite is but for a moment; though his excellency mount up to the Heavens, and his Head reach unto the Clouds, yet he ſhall periſh, as his own dung; they that have ſeen him, ſhall ſay, where is he? He ſhall fall away as a dream, and ſha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l not be found: yea, He ſhall be chaſed away as a viſion of the night.</hi> But not to give you this in precept, but to ſhew you how to reform your ſelves in theſe Vices, that <hi>Solomon</hi> ſpecifieth to bear ſway in Young-men, let me lay you down theſe following Directi<g ref="char:EOLhyphen"/>ons.</p>
+               <p>Firſt, You muſt betake your ſelves to mourning for your Sins, as St. <hi>James</hi> ſaith, <hi>Be afflicted, and weep and mourn, let your laugh<g ref="char:EOLhyphen"/>ter be turned into heavineſs.</hi> If we be not reconciled to God, if we have not aſſurance that we are intereſted in Chriſt, there is no time for us to rejoyce, we ſhould rather be<g ref="char:EOLhyphen"/>take our ſelves to bitter mourning, for the wrath of God is due to us, and we know not how ſoon it may fall upon us.</p>
+               <p>In the ſecond place, Conſider how vain all things are, in which Youthful Perſons rejoyce. If Young-men rejoyce in Humane Wiſdom and Vnderſtanding, this is a vain thing, it is gotten with a great deal of trouble, and vexation of Spirit, <hi>Eccleſ, 1.13.
+<pb n="11" facs="tcp:174444:9"/>gave my Heart to ſeek and ſearch out by wiſdom <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oncerning all things that are done under Heaven.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his ſore travel hath God given to the Sons <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f Men, to be exerciſed therewith. And in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er. <hi>18. In much wiſdom is much grief, and he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hat increaſeth knowledge, increaſeth ſorrow.</hi> God doth ſo puniſh the pride and boldneſs of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Wit of Men, even from the fall of our <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>irſt Parents,</p>
+               <p>In the ſecond place, If Young-Men rejoyce <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n Honour and Credit amongſt Men, this alſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s vain, <hi>Solomon</hi> hath ſhewed it, <hi>Eccleſ. 2.6. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>here is</hi> (ſaith he) <hi>no remembrance of the Wiſe, more than the Fool, for ever, for which now is, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hall in the days to come, be forgotten.</hi> Again, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a man rejoyce in Honour and Glory, he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>annot Believe. So ſaith Chriſt, <hi>John 5.44. How can you believe ſince you ſeek Honour one <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f another, and not the Honour that cometh of God onely? Joh. 40.43.</hi> Nay, farther the Apoſtle ſheweth us that this is the cauſe of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nvy, <hi>Mal. 5.26. Be not deſirous of vain <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lory, envying one another.</hi> Farther, Young-men commonly delight in pleaſures; theſe alſo are vain things. <hi>I ſaid in my Heart,</hi> (ſaith <hi>Solomon, Eccleſ. 2.2.) Go to now, I will prove thee with mirth, therefore enjoy plea<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ures: and behold this alſo is vanity.</hi> All
+<pb n="12" facs="tcp:174444:10"/>theſe pleaſures of youth ſhall ceaſe: there will ſhortly be an end of your Wiſdom, Honour and Pleaſures, <hi>1 Cor. 7.29. The time is ſhort; It remaineth that thoſe that have Wives, be as thoſe that have none, and they that rejoyce, as though they rejoyced not; they that buy, as though th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y poſſeſſed not; they that uſe the World, as not abuſing of i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>; for the faſhion of this World paſſeth away.</hi>
+               </p>
+               <p>Laſtly, Our Saviour Chriſt, in <hi>Luke 8.14.</hi> ſheweth that the pleaſures of this life choak the Word of God, that it cannot bring forth grateful fruit to God.</p>
+               <p>Fourthly, If Young-men delight in Riches, and rejoyce in the Eſtates that God hath given them: this lightneſs is a vain thing.</p>
+               <p>For, Firſt, Many times wealth is gotten by deceit, and then God bloweth on it, <hi>Jer. 5.27. As a Cage full of Birds<g ref="char:punc">▪</g> ſo are their Houſes full of deceit, therefore they are become great and waxen rich; ſhall not I viſit for theſe things</hi> (ſaith the Lord) <hi>and ſhall not my ſoul be revenged on ſuch a People as this?</hi> ſaith the Lord. Again, Wealth is kept with ſorrow and vexation, <hi>Eccel. 5.12. The ſleep of the labouring man is ſweet, whether he eat li<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tle or much,</hi> but
+<pb n="13" facs="tcp:174444:10"/>the abundance of the Rich, will not ſuffer them to ſleep.</p>
+               <p>Thirdly, Wealth is left with a great deal of ſorrow and vexation, <hi>Rev. 18.18. When <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he ſmoak of <hi>Babylon</hi> aſcended up to Heaven, Oh, what Lamentation there was! they cryed out What City is like this great City? and they caſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he duſt on their heads, and cryed, weeping and wailing, ſaying, Alas, alas, that great City, wherein were made rich all that had ſhips on the Sea, by reaſon of her conſtlineſs: for in one hour <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſhe made deſolate.</hi> But ſuppoſe farther, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat a man ſhould get and keep his wealth in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he fear of God, yet theſe theſe things are moſt un<g ref="char:EOLhyphen"/>certain riches.</p>
+               <p>Laſtly, theſe riches cannot preſerve your life, ſo ſaith Chriſt himſelf, <hi>Luke. 12.25. Pſal. 62.9. and 49.78.</hi>
+               </p>
+               <p>Thus I have ſhewed the ſeveral things that Young-men rejoyce in, and ſhewed <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou like<g ref="char:EOLhyphen"/>wiſe, that their joy is founded upon vanity, and this is the ſecond means to heal young-men of their inordinateneſs of their joy, to meditate with themſelves how vain and frivo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ous all things are, they delight in.</p>
+               <p>The third means, is to betake themſelves to ſeek ſpiritual joy: the well-head of this joy is in God: the grounds of this joy are <hi>2</hi> fold.</p>
+               <pb n="14" facs="tcp:174444:11"/>
+               <p>Firſt, The good things Exhibited.</p>
+               <p>Secondly. The good things Promiſed.</p>
+               <p>The good things Exhibited, That God hath written our names in the Book of Life. Here is a Fountain of Spiritual I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n to a true Chriſtian. <hi>To rejoyce</hi> (ſaith Chriſt) <hi>not that the Devils are fallen before you, but that your names are written in the Book of Life.</hi>
+               </p>
+               <p>Secondly, The other ground of Spiritu<g ref="char:EOLhyphen"/>al joy, is, The good things promiſed us; and thoſe may be reduced to two Heads.</p>
+               <p>God hath promiſed: <hi>1.</hi> That our afflicti<g ref="char:EOLhyphen"/>ons ſhall be for our Edification.</p>
+               <p>And, God hath promiſed deliverance from affliction, all in the beſt ſeaſon.</p>
+               <p>Again, For the defects of Grace in us, (which indeed is a thing grievous to a true Chriſtian;) here we may rejoyce.</p>
+               <p>Firſt, In the promiſe of preſerving of Grace.</p>
+               <p>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>condly, In the promiſe of augmentation an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> growth in Grace.</p>
+               <p>Thirdly, In the promiſe of bringing the weakeſt grace to perfection.</p>
+               <p>Here you haue the Well-head of joy, O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that young men would know God, and Ieſus Chriſt and the Word of God, and the Promiſes, that they may leave this ſinful
+<pb n="15" facs="tcp:174444:11"/>ſottiſh joy, whereunto they are ſolicited, this is the means to be rid of it by getting into their Souls the ſenſe and feeling of the true joy of the Children of God.</p>
+               <p>Again, In the ſecond place; Young men ſhould be exhorted, not to walk after their own hearts: which is the next thing that <hi>Solomon</hi> noteth as a fault in them. <hi>The heart</hi> (ſaith <hi>Jeremiah</hi>) <hi>is deceitful, above meaſure, and deſperately wicked, who would follow a falſe guide? and a deſperate Wicked guide:</hi> ſo is the heart of man.</p>
+               <p>Laſtly, They ſhould not walk after the fight of their Eyes. <hi>David</hi> Prayed, <hi>Turn away mine eyes that I regard not vanity, and quicken me in thy Law.</hi> And again, <hi>Open mine eyes, that I may ſee the Wondrous things of thy Law.</hi> There is much danger in following our eyes. <hi>Eve</hi> was miſ-led by her eye; She looked upon the forbidden-fruit and ſaw it beautiful, and luſted after it. <hi>And when I ſaw</hi> (ſaith <hi>Achan</hi>) <hi>among the ſpoils, a goodly Babiloniſh Garment, and a wedge of gold, then I coveted them, and took them, Joſh. 7.21. David</hi> was defiled with the glance of his eye: he ſaw <hi>Bathſheba</hi> from the roof of his houſe waſhing her ſelf, and then he luſted, <hi>2 Samuel. 11.1.</hi> Holy Men have prayed to God, that he would kéep their eyes in a
+<pb n="16" facs="tcp:174444:12"/>right frame and temper. Theſe are the par<g ref="char:EOLhyphen"/>ticulars that <hi>Solomon</hi> giveth to young men in direction, to take heed of Carnal joy: to take heed of walking after their Hearts: theſe things (Brethren) I have committed in direction to you.</p>
+               <p>The laſt part of this Doctrine I have re<g ref="char:EOLhyphen"/>ſerved for Old-men: for if young-men may not rejoyce carnally, much leſs may Old-men: youth may plead for it ſelf, in want of Wiſdome and Gravity, and Experience, better then thoſe of Age. If young-men may not have evil hearts and eyes, much leſs old men. Look to it, you that hear me this day, that are ſtricken in age, (as the Scriptures ſaith) that are ſmitten in your limbs with age, that you cannot walk with activity, and nimbleneſs, and are ſmitten in your ſenſes with age, that you cannot well ſee, and hear, and faſte: Oh that your hearts would ſmite you for your ſins: Oh, would to God you did bethink your ſelves before it be too late: May not young men rejoyce in Pleaſures, in Friends, in Honour, in Wealth? much leſs may old age: muſt young men be care<g ref="char:EOLhyphen"/>ful to chaſe away all Carnal joy, and get Spiritual joy, that beginneth in godly Sor<g ref="char:EOLhyphen"/>row? much more muſt old men: It is no time
+<pb n="17" facs="tcp:174444:12"/>for thoſe that are Old, to rejoyce in car<g ref="char:EOLhyphen"/>nal things: a few days will make an end of them, and lay them in the Grave: Oh the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you that are of years, break off your Sins by Repentance: and your iniquities by Mercy: Rejoyce ye, in being good: and in doing good, this joy will continue with you. But know thou, that for all this, God will bring thee to judgement.</p>
+            </div>
+            <div n="2" type="doctrine">
+               <head>Doct. 2. That the Lord God will certainly bring men to Judgment for all the Sins they have committed.</head>
+               <p>But know, thou muſt know it: you ſhould always remember it: and whatſoever thou takeſt in hand, conſider with thy ſelf whe<g ref="char:EOLhyphen"/>ther it will ſtand with thee at that great day of judgement, <hi>Mal. 3.18. A Book of Remem<g ref="char:EOLhyphen"/>brance was written before God, for thoſe that fear the Lord, and thought upon his Name.</hi> So the Lord hath a Book of Remem<g ref="char:EOLhyphen"/>brance, wherein he writeth down the ſins of the Sons of men and this ſhall be opened, <hi>Eccleſ. 12.14. God will bring every Work unto Judgement, with every ſecret thing; whether it be good, or whether it be evil, 2 <hi>Cor.</hi> 5.10. We muſt all appear before the Judgement ſeat of Chriſt, that every one may
+<pb n="18" facs="tcp:174444:13"/>receive the things done in his body according to that he hath done, whether it be good or bad, 1 Theſ. 4.16. The Lord himſelf ſhall de<g ref="char:EOLhyphen"/>ſcend from heaven with a ſhout, with a voice of the Arch-Angel, and with the Trump of God, Jude 14.</hi> For the opening of this Point, I will briefly ſhew you theſe two things.</p>
+               <p>Firſt, What is the reaſon that God will bring all theſe things to judgement.</p>
+               <p>Secondly, What manner of judgement this will be.</p>
+               <p>For the Firſt, What is the reaſon that God will bring all theſe things to judge<g ref="char:EOLhyphen"/>ment.</p>
+               <p>The Firſt reaſon is, Decrée, <hi>Heb. 9.27. It is appointed for all men once to dye, and af<g ref="char:EOLhyphen"/>ter Death to Judgement.</hi> Even as it muſt needs be, that men muſt dye, becauſe God hath appointed it, ſo it muſt needs be that men muſt come to iudgement, in regard of the purpoſe and decree of God.</p>
+               <p>Secondly, God will do this, in regard of his righteouſneſs: He is a holy God, a hater of iniquity: But many times in this World it is well with the Wicked, and ill with the Godly: <hi>Lazarus</hi> he is in woful miſery, and <hi>Dives</hi> is in abundance of proſpe<g ref="char:EOLhyphen"/>rity. Now God will ſhew his love to the
+<pb n="19" facs="tcp:174444:13"/>Righteous, and his hatred to the Wicked, in this judgement.</p>
+               <p>Laſtly, the conſciences of men may prove that there ſhall be a judgement: For let a Man commit ſecret ſins, that none know<g ref="char:EOLhyphen"/>eth of but God and he, yet many times he feeleth helliſh horror, which is a manifeſt proof, That Conſcience ſeeth, and appre<g ref="char:EOLhyphen"/>hendeth God, as the Supream judge, That will call all men to account for their ſins.</p>
+               <p>Thus you hear the reaſons why there muſt be a judgement.</p>
+               <p n="1">
+                  <hi>1.</hi> It will be the laſt judgement, which declareth the terribleneſs of it. In this there is hope: Let the wicked forſake his ways and turn to the Lord, and he will be gracious to him.</p>
+               <p>Again, It ſhall be a general judgement: which is the ſecond thing, <hi>2 Cor. 10. We muſt all appear before the judgement ſeat of Chriſt.</hi>
+               </p>
+               <p n="3">
+                  <hi>3.</hi> It ſhall be a Manifeſt Iudgement: Sometimes the Lord judgeth men ſecretly, by raiſing up in them fears and horrors in their hearts, cauſing his Curſe in them, as Water in their Bowels, and Oyl in their Bones: but then God ſhall open his wrath againſt the Children of wrath, before all the world of men, and no eye ſhall pitty them.</p>
+               <pb n="20" facs="tcp:174444:14"/>
+               <p n="4">
+                  <hi>4.</hi> It ſhall be a ſudden judgement, even as the flood came upon the old world, when they were ſporting themſelves, and deriding <hi>No<g ref="char:EOLhyphen"/>ah,</hi> that preached to them of the flood: this day ſhall come as a Snare, upon all that dwell upon the earth, it ſhall come as a thief in the night.</p>
+               <p n="5">
+                  <hi>5.</hi> It ſhall be a Righteous Iudgement, <hi>Rom. 2. God will tender to every man accor<g ref="char:EOLhyphen"/>ding to his deeds.</hi>
+               </p>
+               <p>Laſtly, It ſhall be an eternal judgement So ſaith the Apoſtle, <hi>Heb. 6.2.</hi> It is not meant that God will fit for ever, but it is ſo called from the effects: for the concluſion ſhall be this: the eternal weal and happyneſs of the Godly, and the eternal woe and miſery of the wicked, that ſhall be plunged by the Iuſtice of God into the ſevereſt torments.</p>
+               <div type="application">
+                  <head>The Uſe of this Doctrine.</head>
+                  <p>Will God bring both Old and Young great and ſmall, to judgement? then let this be for inſtruction to all, to haſte to repen<g ref="char:EOLhyphen"/>tance. Beloved, this is one of the laſt things that God will do, and this is the greateſt thing that the Miniſter can ſay: <hi>God will iudge you for your ſins, Acts 17 31. God hath appointed a day, in which he will judge
+<pb n="21" facs="tcp:174444:14"/>the World in Righteouſneſs.</hi> Surely if this doth not awaken us, nothing will, nothing can. Art thou able to ſtand before God when he is angry with us? oh, the hardneſs of Mans heart! that will not be awakened though he hears that the Iudge is at the door, but ſtill goes on, treaſuring up wrath againſt the day of wrath.</p>
+                  <p>In the third place: this Doctrine that God will judge the world, ſhould make us Pre<g ref="char:EOLhyphen"/>ſerve in our ſelves a good conſcience. <hi>Act. 24.16.</hi> The Apoſtle had hope that there ſhould be a Reſurrection of the dead, both of the juſt and unjuſt, therefore he did exerciſe himſelf to have always a good conſcience, void of of<g ref="char:EOLhyphen"/>fence, towards God, and towards man.</p>
+                  <p>Laſtly, This Doctrine ſhould teach us to fear God, and give Glory to him: As St. <hi>John</hi> ſpeaks in his Revelation: <hi>The Day of his Judgement is a coming, therefore fear him, and give glory to him: and the Lord give you underſtanding in all things.</hi>
+                  </p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
